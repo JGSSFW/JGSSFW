@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/JGSSFW">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JGSSFW&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGSSFW&layout=compact&langs_count=6&theme=panda"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JGSSFW&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGSSFW&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,7 +16,7 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="https://instagram.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/jeangschram/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jgssfw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jean-gabriel-schram-dos-santos-18486a188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
