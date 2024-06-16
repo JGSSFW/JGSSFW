@@ -26,7 +26,7 @@
   <a href = "mailto:jgssfw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jean-gabriel-schram-dos-santos-18486a188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/JGSSFW/JGSSFW/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JGSSFW/JGSSFW/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
