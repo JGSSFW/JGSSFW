@@ -1,4 +1,8 @@
 <h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quantico&weight=700&size=35&duration=4000&pause=1000&color=00A3F1&center=true&vCenter=true&random=false&width=500&height=70&lines=Ol%C3%A1!%F0%9F%91%8B;Me+chamo+Jean!;Bem-vindos+ao+meu+perfil!" alt="Typing SVG" /></a>
+</h1>
+
+<h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Me+chamo+Jean!;Bem-vindos+ao+meu+perfil!;" />
 </h1>
 
