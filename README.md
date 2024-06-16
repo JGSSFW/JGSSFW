@@ -2,10 +2,6 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Quantico&weight=700&size=35&duration=4000&pause=1000&color=00A3F1&center=true&vCenter=true&random=false&width=500&height=70&lines=Ol%C3%A1!%F0%9F%91%8B;Me+chamo+Jean!;Bem-vindos+ao+meu+perfil!" alt="Typing SVG" />
 </h1>
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Me+chamo+Jean!;Bem-vindos+ao+meu+perfil!;" />
-</h1>
-
  <div>
   <a href="https://github.com/JGSSFW">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JGSSFW&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -35,5 +31,5 @@
 </div>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Quantico&weight=700&size=35&duration=4000&pause=1000&color=00A3F1&center=true&vCenter=true&random=false&width=500&height=70&lines=Obrigado+pela+aten%C3%A7%C3%A3o!" alt="Typing SVG" />
 </h1>
