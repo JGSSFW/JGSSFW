@@ -1,4 +1,7 @@
 # Bem-vindo(a) ao perfil do Jean Gabriel Schram dos Santos 😁
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Jean!;" />
+</h1>
 
  <div>
   <a href="https://github.com/JGSSFW">
