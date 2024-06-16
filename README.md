@@ -1,6 +1,5 @@
-# Bem-vindo(a) ao perfil do Jean Gabriel Schram dos Santos 😁
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Jean!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Jean!;" />
 </h1>
 
  <div>
@@ -30,3 +29,7 @@
   ![Snake animation](https://github.com/JGSSFW/JGSSFW/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
